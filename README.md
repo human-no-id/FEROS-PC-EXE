@@ -1,4 +1,6 @@
-# Frequency Energy Response Optimiser and Simulator (FEROS)
+# FEROS: Frequency Energy Response Optimiser and Simulator
+
+<img src="https://github.com/human-no-id/FEROS-PC-EXE/blob/main/FEROS.png" alt="feros_main" title="FEROS EXE Screenshot">
 
 ## About
 
@@ -13,7 +15,7 @@ This is a standalone application designed for Windows OS that uses a system freq
 
 ## License
 
-FEROS is distributed under the open source license GNU GPL v3 - see the LICENSE file for details. This is a copyleft license that requires anyone using this code or a derivative work to make the source available under the same terms.
+FEROS is distributed under the open source license GNU GPL v3 - see the <a href="https://github.com/human-no-id/FEROS-PC-EXE/blob/main/LICENSE" target="_blank">LICENSE</a> file for details. This is a copyleft license that requires anyone using this code or a derivative work to make the source available under the same terms.
 
 ## Citing FEROS
 
